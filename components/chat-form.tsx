@@ -41,12 +41,6 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
         <h1 className="bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-2xl font-semibold tracking-tight text-transparent">
           DeepSeek R1 Chat
         </h1>
-         {/* 
-        <p className="text-muted-foreground text-sm leading-relaxed">
-          Powered by <span className="font-medium text-foreground">Groq</span> and{" "}
-          <span className="font-medium text-foreground">DeepSeek</span>
-        </p>
-        */}
         <div className="text-muted-foreground/80 text-xs">
           Begin your conversation...
         </div>
