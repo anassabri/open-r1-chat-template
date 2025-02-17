@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "DeepSeek Reasoning AI Chatbot",
-  description: "This is an AI chatbot app using Next.js, the Vercel AI SDK, and powered by DeepSeek R1.",
+  description: "This is DeepSeek R1 AI chatbot app",
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
